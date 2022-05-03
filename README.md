@@ -1,70 +1,24 @@
-Getting Started with Create React App
+Imagine launching a marketplace in 2022. Firstly, let's unpack the bull case.
+NFTs, like traditional art, represent more than just aesthetics and speculative value, they capture much of the abstract qualities that we define as "society".
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The major 0-1 leap of NFTs was filling a sense of belonging. Even now, multiple projects defy reason and logic, and they simply explode into fully-fledged ecosystems overnight. Why? Because you can't just use an ICO or airdrop to build a sustainable vibe.
 
-## Available Scripts
+At Odyssey, we realized that there was a strong intersection between artistic innovation and community-building. The focal rule is respecting the vibe of the community first, and respecting the artist, like Dimitri Daniloff,  that resonates with that vibe.
 
-In the project directory, you can run:
+On the other hand, there are those that depict our vibe disingenuously, e.g. that 2 hr video (tl;dr, they see the attention and less scrupulous projects as evidence of an echo chamber that seeks out fresh, uninformed money). The criticism often comes from non-participants. Why the hate? Because NFTs as an industry are judged by failures from the outside. Consider why people get into NFTs if there's no clear contender? What is the strongest value prop that outcompetes this sort of noise?
 
-### `yarn start`
+The core truth of our space is that no matter how fun things get, no matter how lucrative collecting becomes, the value comes from the community. We simply observe these pieces coming together, but the credit goes to the artists, curators, & collectors for generating this.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We observed larger marketplaces either neglect the vibe or try and farm it. The closest that we've come to the source has been ZORA, a hyperstructure in the making. So we know that something will take off, and we know the community deserves to be first served. We know that NFTs will evolve along the lines of
+LensProtocol and ENSdomains, that the greatest facets involve identity and interaction. Additionally, with new techniques and new, transformative formats of art, we know that "traditional" NFTs still have a lot of potential.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+We know that NFT mints deserve more upfront Sybil resistance, and we know that allowlists don't cut it (although they're far better than a raw first come/first served gas war). At Odyssey, we're experimenting with a new nontransferable form of identity, one that respects the labor and passion that all marketplace participants pour into their communities, that may go unrecognized.
 
-### `yarn test`
+Marketplaces should be the healthiest gathering points for those that generate value. We're excited to experiment with the next-gen platform design to that end.
+It's pretty simple. $OHM is a floating decentralized reserve currency. Odyssey is a platform that distributes $OHM back to the community. Our prestige system is an evolving, Sybil-resistant backstop. And the art? The art is 🔥. As the prestige system ages, the art will become more creative, more innovative, and more curated, and the community will benefit further and further from the activity. enough PVP, mercenary games. We're taking the real value, and taking it to the next level. We're building new bridges between ecosystems and their communities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Odyssey market will mark a new era of NFT marketplace development. There will also be a robust and fair revenue sharing program which we will expand upon so that everyone can understand the value we are bringing to the artists, collectors, and Odyssey.
 
-### `yarn build`
+Artists, as the lifeblood of the Odyssey marketplace, are the main focus of the platform -  we want them and their collections to shine.  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
